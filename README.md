@@ -1,12 +1,23 @@
 ```csharp
-public class Desenvolvedor
+namespace DevProject.Models
 {
-    public string Nome { get; set; }
-    public string LinguagemFavorita { get; set; }
-    public int AnosDeExperiencia { get; set; }
-
-    public void Apresentar()
+    public class Developer
     {
-        Console.WriteLine($"Olá, meu nome é {Nome}, minha linguagem favorita é {LinguagemFavorita} e tenho {AnosDeExperiencia} anos de experiência.");
+        public string Name { get; set; }
+    }
+}
+
+using DevProject.Models;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        var mew = new Developer
+        {
+            Name = "Gustavo da Rosa Oliveira"
+        };
+
+        Console.WriteLine($"Developer criado: {mew.Name}");
     }
 }
