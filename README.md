@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Gustavo Oliveira!
+# 👋 Olá, me chamo Gustavo da Rosa Oliveira!
 
 🎯 **Arquiteto de Sistemas | C# | .NET | Azure | Clean Architecture**
 
