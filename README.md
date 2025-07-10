@@ -55,7 +55,6 @@ Responsável por liderar decisões arquiteturais, garantir a qualidade técnica 
 ## 📫 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-da-rosa-oliveira)
-- 💻 [Portfólio no GitHub](https://github.com/gustavo-rosa-oliveira)
 - 📧 g.oliveira190298@gmail.com
 
 ---
